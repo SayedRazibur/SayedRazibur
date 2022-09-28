@@ -1,6 +1,6 @@
 <p>👋 Hi, I'm Adam, and welcome to my GitHub bio</p>
-<p>👨‍🎓i'm a student at DPI in Bangladesh</p>
 
+- 👨‍🎓i'm a student at DPI in Bangladesh
 - 🔭 I’m currently working on Web Development & I love to code
 - 🌱 I’m currently learning JavaScript / Node.Js
 - 🤔 I'm thinking of creating some projects
