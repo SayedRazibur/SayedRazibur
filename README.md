@@ -1,4 +1,4 @@
-<p>👋 Hi, I'm Adam, and welcome to my GitHub bio</p>
+<p>👋 Hi, I'm Robin, and welcome to my GitHub bio</p>
 
 - 👨‍🎓i'm a student at DPI in Bangladesh
 - 🔭 I’m currently working on Web Development & I love to code
