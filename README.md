@@ -1,8 +1,8 @@
-<p>👋 Hi, I'm Robin, and welcome to my GitHub bio</p>
+<p>👋 Hi, I'm Razibur, and welcome to my GitHub bio</p>
 
-- 👨‍🎓i'm a student at DPI in Bangladesh
+- 👨‍🎓 I'm a student at Dhaka Polytechnic Institute in Bangladesh
 - 🔭 I’m currently working on Web Development & I love to code
-- 🌱 I’m currently learning JavaScript / Node.Js
+- 🌱 I’m currently learning Node.Js, ExpressJS
 - 🤔 I'm thinking of creating some projects
-- 😊 follow on facebook - https://www.fb.com/SayedRaziburRahman
-- ⚡ Follow on likedIn - https://www.linkedin.com/in/SayedRazibur
+- 😊 follow on Facebook - https://www.fb.com/SayedRazibur
+- ⚡ Follow on LinkedIn - https://www.linkedin.com/in/SayedRazibur
