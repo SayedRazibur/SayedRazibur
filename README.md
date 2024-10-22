@@ -18,8 +18,34 @@
 
 
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<br>
 
+
+
+
+<div  align="center">
+:coffee: &emsp;Connect with me!
+  
+<p>
+  <br>
+</p>
+  
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SayedRazibur) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedrazibur/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedrazibur@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801632537236?text=As-Salamu%20Alaikum!)
+</div>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<br>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -78,34 +104,42 @@
 </div>
 
 
+<br>
+
 
 <h2 align="center">🔥 Github Stats</h2>
+<br>
 
 <div align="center">
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=SayedRazibur&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=codeSTACKr"></a>
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=SayedRazibur&theme=codeSTACKr&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"></a>
 </div>
 
 
 
+<br>
 
-<h2 align="center">Top Repositories</h2>
+
+
+
+<h2 align="center">📘 Top Repositories</h2>
+<br>
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/SayedRazibur/chat-app"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SayedRazibur&repo=chat-app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+        <a href="https://github.com/SayedRazibur/chat-app"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SayedRazibur&repo=chat-app&hide_border=true&icon_color=F8D866&theme=codeSTACKr&show_icons=false" alt="readme-typing-svg"></a>
       </td>
       <td>
-        <a href="https://github.com/SayedRazibur/QuizMaster"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=QuizMaster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+        <a href="https://github.com/SayedRazibur/QuizMaster"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=QuizMaster&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
       </td>
     </tr>
     <tr>
       <td>
-       <a href="https://github.com/SayedRazibur/manage"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=manage&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+       <a href="https://github.com/SayedRazibur/manage"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=manage&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
       </td>
       <td>
-       <a href="https://github.com/SayedRazibur/Portfolio-Website"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Portfolio-Website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+       <a href="https://github.com/SayedRazibur/Portfolio-Website"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Portfolio-Website&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
       </td>
     </tr>
     <tr >
@@ -115,33 +149,3 @@
     </tr>
   </table>
 </div>
-
-<br>
-
-<div  align="center">
-<p>
-  <a href="https://www.facebook.com/SayedRazibur" target="_blank">
-    <img
-      width="50px"
-      src="https://res.cloudinary.com/di8kcybpz/image/upload/v1727872250/icons8-facebook-100_1_siwhxp.png"
-      alt="Facebook"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/sayedrazibur/" target="_blank">
-    <img
-      width="50px"
-      src="https://res.cloudinary.com/di8kcybpz/image/upload/v1727872250/icons8-linkedin-100_tnvc3b.png"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://wa.me/8801632537236?text=As-Salamu%20Alaikum!" target="_blank">
-    <img
-      width="50px"
-      src="https://res.cloudinary.com/di8kcybpz/image/upload/v1727872250/icons8-whatsapp-100_klqemt.png"
-      alt="Whatsapp"
-    />
-  </a>
-</p> 
-</div>
-
-
