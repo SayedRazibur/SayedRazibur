@@ -136,10 +136,10 @@
     </tr>
     <tr>
        <td>
-       <a href="https://github.com/SayedRazibur/Portfolio-Website"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Neomorphic-Studio&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+       <a href="https://github.com/SayedRazibur/Neomorphic-Studio"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Neomorphic-Studio&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
       </td>
       <td>
-       <a href="https://github.com/SayedRazibur/manage"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=manage&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+       <a href="https://github.com/SayedRazibur/Responsive-Showcase"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Responsive-Showcase&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
       </td>
     </tr>
     <tr >
