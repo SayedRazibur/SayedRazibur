@@ -117,10 +117,11 @@
 
 
 <br>
+<div align="center">
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SayedRazibur&theme=codeSTACKr&hide_border=true"></a>
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SayedRazibur&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
