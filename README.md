@@ -110,15 +110,11 @@
 <h2 align="center">🔥 Github Stats</h2>
 <br>
 
-
-
-
-<br>
 <div align="center">
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"></a>
   <a href="https://github.com/SayedRazibur"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SayedRazibur&theme=codeSTACKr&hide_border=true"></a>
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+  <a href="https://github.com/SayedRazibur"><img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
 </div>
-
 
 <br>
 
