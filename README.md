@@ -112,7 +112,7 @@
 
 <div align="center">
   <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=codeSTACKr"></a>
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=SayedRazibur&theme=codeSTACKr&date_format=M%20j%5B%2C%25Y%5D&hide_border=true"></a>
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=SayedRazibur&theme=codeSTACKr&hide_border=true"></a>
 </div>
 
 
