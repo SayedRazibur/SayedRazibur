@@ -110,16 +110,13 @@
 <h2 align="center">🔥 Github Stats</h2>
 <br>
 
-<div align="center">
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=codeSTACKr"></a>
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=SayedRazibur&theme=codeSTACKr&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"></a>
-</div>
+
 
 
 <br>
 <div align="center">
   <a href="https://github.com/SayedRazibur"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SayedRazibur&theme=codeSTACKr&hide_border=true"></a>
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
 </div>
 
 
