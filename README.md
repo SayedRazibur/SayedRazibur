@@ -1,6 +1,6 @@
 <p>
 <!-- <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sayed Razibur Rahman</h1> -->
-<h1>‼️Most of my work is private for client privacy</h1>
+<h1>‼️All of my work is private for client privacy</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
 </p>
