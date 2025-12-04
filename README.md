@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
-<div>
+<!-- <div>
 <details>
   <summary>🧑 More about me</summary>
 
@@ -15,7 +15,7 @@
 - 💬 Feel free to ask me about **web development, UI/UX design, and React**
 - 📫 Reach me out at **sayedrazibur@gmail.com**
 </details>
-</div>
+</div> -->
 
 
 
@@ -28,7 +28,9 @@
 
 <div align="center"> 
   
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SayedRazibur) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedrazibur/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedrazibur@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801632537236?text=As-Salamu%20Alaikum!)
+ <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SayedRazibur) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedrazibur/) -->
+
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedrazibur@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801632537236?text=As-Salamu%20Alaikum!)
 </div>
   
 
