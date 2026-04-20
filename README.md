@@ -1,153 +1,70 @@
-<p>
-<!-- <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sayed Razibur Rahman</h1> -->
-<!-- <h1>‼️All of my work is private for client privacy</h1> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sayed%20Razibur%20Rahman&fontSize=40&color=0:0d0d0d,100:1a001a&fontColor=00ff88&animation=twinkling&stroke=00ff88&strokeWidth=1" width="100%"/>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Building+Production-Grade+Web+Apps;Available+for+Hire+%F0%9F%9F%A2" alt="Typing SVG" />
 </p>
 
-<!-- <div>
-<details>
-  <summary>🧑 More about me</summary>
+---
 
-- 🔭 I’m currently on a journey to build **great** things
-- 🌱 I’m currently learning **everything** 🤓
-- 👨‍💻 Check out my projects [here](https://github.com/SayedRazibur?tab=repositories)
-- 💬 Feel free to ask me about **web development, UI/UX design, and React**
-- 📫 Reach me out at **sayedrazibur@gmail.com**
-</details>
-</div> -->
+## 📡 &nbsp; Contact — Open to Work
 
+> **Looking to hire or collaborate? Don't hesitate — hit me up directly.**
 
+<p align="center">
+  <a href="mailto:sayedrazibur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/8801632537236?text=As-Salamu%20Alaikum!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
+## ⚡ &nbsp; Tech Stack
 
+### 🖥️ &nbsp; Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,materialui,redux&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
 
+### 🔧 &nbsp; Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
 
-<p align="center">:coffee: &emsp;Connect with me!</p>
+### 🗄️ &nbsp; Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,supabase,prisma&theme=dark" />
+</p>
 
-<div align="center"> 
-  
- <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SayedRazibur) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedrazibur/) -->
+### ☁️ &nbsp; Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DevOps-0175C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</p>
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedrazibur@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801632537236?text=As-Salamu%20Alaikum!)
-</div>
-  
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-<br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-     <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-<br>
-
-
-<h2 align="center">🔥 Github Stats</h2>
-<br>
-
-<div align="center">
-  <!-- <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"></a> -->
-  <a href="https://github.com/SayedRazibur"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=SayedRazibur&theme=codeSTACKr&hide_border=true"></a>
-  <!-- <a href="https://github.com/SayedRazibur"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedRazibur&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a> -->
-</div>
-
-<br>
-
-
-
-
-<!-- <h2 align="center">📘 Top Repositories</h2>
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/SayedRazibur/chat-app"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SayedRazibur&repo=chat-app&hide_border=true&icon_color=F8D866&theme=codeSTACKr&show_icons=false" alt="readme-typing-svg"></a>
-      </td>
-      <td>
-        <a href="https://github.com/SayedRazibur/QuizMaster"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=QuizMaster&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-      </td>
-    </tr>
-    <tr>
-       <td>
-       <a href="https://github.com/SayedRazibur/Neomorphic-Studio"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Neomorphic-Studio&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-      </td>
-      <td>
-       <a href="https://github.com/SayedRazibur/Responsive-Showcase"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SayedRazibur&repo=Responsive-Showcase&theme=codeSTACKr&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-      </td>
-    </tr>
-    <tr >
-      <td  align="center" colspan="2">        
-        <a href="https://github.com/SayedRazibur?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      </td>
-    </tr>
-  </table>
-</div> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a001a,100:0d0d0d&fontColor=00ff88&section=footer" width="100%"/>
