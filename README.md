@@ -1,70 +1,163 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sayed%20Razibur%20Rahman&fontSize=40&color=0:0d0d0d,100:1a001a&fontColor=00ff88&animation=twinkling&stroke=00ff88&strokeWidth=1" width="100%"/>
+<h1 align="center">About Me</h1>
 
+I'm a Full-Stack Developer who builds applications end-to-end — from pixel-perfect 
+frontends to robust backend systems and cloud infrastructure, fast, scalable, and ready 
+for real users.
+
+-  Startup MVPs built from scratch and shipped to production
+-  Real-time apps, payment systems, and SaaS platforms
+-  Full deployment pipelines — CI/CD.
+-  Always learning — currently diving deeper into system design and cloud architecture
+
+> Whether you're a startup founder, a growing business, or an independent builder —
+> I'm ready to partner with you and build something that actually matters. Let's ship it.
+
+<br>
+<br>
+<br>
+
+
+<h1 align="center">Tech Stack</h1>
+
+
+<h3 align="center"><b>Frontend</b></h1>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=200&id=tGvHBPJaKqEd&format=png&color=000000" width="50" height="50" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=200&id=wpZmKzk11AzJ&format=png&color=000000" width="50" height="50" alt="TypeScript"/><br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/><br>ReactJS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" width="50" height="50" alt="Next.js"/><br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind"/><br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/mui/007FFF" width="50" height="50" alt="Material UI"/><br>Material UI
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" alt="Redux"/><br>Redux
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="50" height="50" alt="ShadCN"/><br>ShadCN UI
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://tanstack.com/images/logos/logo-white.svg" width="50" height="50" alt="TanStack"/><br>TanStack
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png" width="50" height="50" alt="Zustand"/><br>Zustand
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h3 align="center"><b>Backend</b></h1>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/><br>Express
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/nginx/009639" width="50" height="50" alt="Nginx"/><br>Nginx
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="50" height="50" alt="WebSocket"/><br>WebSocket
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/stripe/635BFF" width="50" height="50" alt="Stripe"/><br>Stripe
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h3 align="center"><b>Databases</b></h1>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/mongoose/880000" width="50" height="50" alt="Mongoose"/><br>Mongoose
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" height="50" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/redis/DC382D" width="50" height="50" alt="Redis"/><br>Redis
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50" height="50" alt="Supabase"/><br>Supabase
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/prisma/ffffff" width="50" height="50" alt="Prisma"/><br>Prisma
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h3 align="center"><b>Cloud & DevOps</b></h1>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS"/><br>AWS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="50" height="50" alt="CI/CD"/><br>CI / CD
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=100&id=BejoiOeRfYSo&format=png&color=000000" width="50" height="50" alt="DevOps"/><br>DevOps
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<h1 align="center">Contact</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Building+Production-Grade+Web+Apps;Available+for+Hire+%F0%9F%9F%A2" alt="Typing SVG" />
+  <strong>Have an opportunity, idea, or project?</strong><br/>
+  <strong>Let’s connect and build something impactful.</strong>
 </p>
 
----
-
-## 📡 &nbsp; Contact — Open to Work
-
-> **Looking to hire or collaborate? Don't hesitate — hit me up directly.**
+<br/>
 
 <p align="center">
   <a href="mailto:sayedrazibur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801632537236?text=As-Salamu%20Alaikum!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/💬 Chat on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
----
-
-## ⚡ &nbsp; Tech Stack
-
-### 🖥️ &nbsp; Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,materialui,redux&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
-
-### 🔧 &nbsp; Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-
-### 🗄️ &nbsp; Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,supabase,prisma&theme=dark" />
-</p>
-
-### ☁️ &nbsp; Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DevOps-0175C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a001a,100:0d0d0d&fontColor=00ff88&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a001a,100:0d0d0d&section=footer" width="100%"/>
